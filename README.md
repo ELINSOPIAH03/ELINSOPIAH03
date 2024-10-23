@@ -19,6 +19,9 @@ PT ABBAUF MULIA KONSULTAN TEKNOLOGI | FRONT END DEVELOPER INTERN (08/2022 - 12/2
 Instagram [@_.arifaah](https://www.instagram.com/_.arifaah/)
 
 LinkedInd [Elin Sopiah](www.linkedin.com/in/elin-sopiah)
+
+
+[![An image of @elin_sopiah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elin_sopiah)](https://holopin.io/@elin_sopiah)
 <!--
 **ELINSOPIAH03/ELINSOPIAH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
