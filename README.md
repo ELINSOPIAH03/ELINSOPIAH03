@@ -22,6 +22,8 @@ LinkedInd [Elin Sopiah](www.linkedin.com/in/elin-sopiah)
 
 
 [![An image of @elin_sopiah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elin_sopiah)](https://holopin.io/@elin_sopiah)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ec4de124-7689-47ad-944b-987a96edf184" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **ELINSOPIAH03/ELINSOPIAH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
