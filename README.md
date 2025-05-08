@@ -1,3 +1,4 @@
+<!--
 ## Hi!👋 I'm Elin
 
 I am a undergraduete student at Ars University, majoring in Computer Engineering. I have a strong interest in software development, particularly in the areas of front-end and web development.
@@ -11,8 +12,8 @@ PT ABBAUF MULIA KONSULTAN TEKNOLOGI | FRONT END DEVELOPER INTERN (08/2022 - 12/2
 ### SKILL ⚡
 + Microsoft Office (Word, Excel, Power Point)
 + Database MySQL
-+ HTML, CSS, PHP
-+ Java, Javascript, JSON
++ HTML, CSS/SCSS, PHP
++ Javascript, JSON
 + Bootstrap, CodeIgniter, Laravel, Git, Node.js
 
 ## SOSMED 📫
@@ -22,7 +23,7 @@ LinkedInd [Elin Sopiah](www.linkedin.com/in/elin-sopiah)
 
 
 [![An image of @elin_sopiah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elin_sopiah)](https://holopin.io/@elin_sopiah)
-
+-->
 
 <!--
 **ELINSOPIAH03/ELINSOPIAH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
